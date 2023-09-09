@@ -16,6 +16,7 @@ data-from-BLD
 .Python
 build/
 CML archive/
+inputForPython/
 develop-eggs/
 dist/
 downloads/
